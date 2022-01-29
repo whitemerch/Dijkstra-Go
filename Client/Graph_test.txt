@@ -1,0 +1,23 @@
+A B 1
+B A 5
+A C 2
+C A 3
+B F 3
+F B 8
+B D 2
+D B 9
+C D 3
+D C 2
+C E 4
+E C 6
+D F 3
+F D 7
+D G 3
+G D 1
+D E 2
+E D 2
+F G 4
+G F 6
+E G 5
+G E 7
+. 
